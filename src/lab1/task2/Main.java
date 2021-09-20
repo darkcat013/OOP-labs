@@ -1,14 +1,10 @@
 package lab1.task2;
 
-import lab1.task1.Monitor;
-import lab1.task2.Student;
-import lab1.task2.University;
-import lab1.task2.UniversityFunctions;
-
 import java.util.ArrayList;
 
 public class Main
 {
+    public static void main(String[] args)
     {
         //Students and universities
         System.out.println("\n==========================================\nStudents and Universities\n==========================================\n");
