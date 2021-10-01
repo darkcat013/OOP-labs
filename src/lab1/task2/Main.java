@@ -12,7 +12,7 @@ public class Main
         for (int i = 0; i < 9; i++)
         {
             Student s = new Student();
-            s.name = "lab1.task2.Student" + (i + 1);
+            s.name = "Student" + (i + 1);
             s.age = 18 + i / 3;
             s.mark = i + 1;
             students.add(s);
@@ -21,7 +21,7 @@ public class Main
         for (int i = 0; i < 3; i++)
         {
             University u = new University();
-            u.name = "lab1.task2.University" + (i + 1);
+            u.name = "University" + (i + 1);
             u.foundationYear = 2000 + i;
             for (int j = 0; j < 3; j++)
             {
