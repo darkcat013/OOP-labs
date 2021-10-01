@@ -9,7 +9,7 @@ public class Student
     @Override
     public String toString()
     {
-        return "lab1.task2.Student{" +
+        return "Student{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", mark=" + mark +
